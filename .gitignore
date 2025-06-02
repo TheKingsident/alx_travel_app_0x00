@@ -8,6 +8,6 @@ alx_travel_app/alx_travel_app/.env
 alx_travel_app/alx_travel_app/listings/migrations/__pycache__/
 alx_travel_app/alx_travel_app/listings/__pycache__/
 alx_travel_app/alx_travel_app/__pycache__/
-alx_travel_app/listings/__pycache__/views.cpython-310.pyc
-alx_travel_app/listings/__pycache__/urls.cpython-310.pyc
-alx_travel_app/listings/__pycache__/serializers.cpython-310.pyc
+alx_travel_app/listings/__pycache__/
+alx_travel_app/listings/__pycache__/
+alx_travel_app/listings/__pycache__/
